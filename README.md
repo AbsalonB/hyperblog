@@ -7,4 +7,5 @@ En este curso aprendí las funcionalidades que te ofrece Git y GitHub, en lo per
 
 >**Esto solo es el inicio espero en el futuro poder aportar algo a la comunidad de github y en general**
 * Creado por Absalon
+* incluye ejemplos
 **Saludos**
